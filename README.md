@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, eu sou o Lucas Pascoal 👋
 
-<!--
-**PascoaI/PascoaI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pascoal-456180120/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucaspascoal_@hotmail.com)
+
+🧑‍💼 Mobile Developer looking for opportunities.
+
+🚀💻 Flutter
+
+📚👨‍🎓 Graduated in Systems Analysis and Development at UniRitter.
+
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PascoaI&layout=compact)
