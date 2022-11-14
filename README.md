@@ -1,4 +1,4 @@
-### Olá, eu sou o Lucas Pascoal 👋
+### Hi, i'm Lucas Pascoal 👋
 
 
 
