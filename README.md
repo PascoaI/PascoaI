@@ -7,7 +7,7 @@
 
 🧑‍💼 Mobile/Web Developer looking for opportunities.
 
-🚀💻 Flutter, ASP Classic
+🚀💻 Flutter, VBScript, SQLServer, Javascript, Web
 
 📚👨‍🎓 Graduated in Systems Analysis and Development at UniRitter.
 
